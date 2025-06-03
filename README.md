@@ -20,6 +20,8 @@ A complete educational management web application built using **React.js**, with
 📸 Add Fee Form Page
 📸 Fee History Table Pag
 
+A complete educational management web application built using **React.js**, with support for managing students, courses, and fees — all powered by local storage. This project includes secure user login/signup, responsive UI, and interactive dashboards.
+
 ---
 
 ## 📸 Preview
