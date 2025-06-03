@@ -4,6 +4,41 @@ A complete educational management web application built using **React.js**, with
 
 ---
 
+## 📷 Screenshots
+
+```
+📸 Signup Form Page
+📸 Login Form Page
+📸 Home Page
+📸 Add New Studetns Form Page
+📸 All Students Page
+📸 Studnt Details Page
+📸 Student Details Edit Form Page
+📸 Add New Course Form Page
+📸 All Courses Page
+📸 Course Edite Form Details Page
+📸 Add Fee Form Page
+📸 Fee History Table Page
+
+---
+
+## 📷 Preview
+```
+![Signup Page](./screenShots/User-signup.png)
+![Login Page](./screenShots/User-login.png)
+![Home Page](./screenShots/Home-page.png)
+![Add New Studetns Form Page](./screenShots/Add-new-student.png)
+![All Students Page](./screenShots//All-students.png)
+![Studnt Details Page](./screenShots/Student-full-details.png)
+![Student Details Edit Form Page](./screenShots/Student-edit-details.png)
+![Add New Course Form Page](./screenShots/Add-courses.png)
+![All Courses Page](./screenShots/All-courses.png)
+![Course Edite Form Details Page](./screenShots/)
+![Add Fee Form Page](./screenShots/Add-fee.png)
+![Fee History Table Page](./screenShots/Payment-History.png)
+
+---
+
 ## 🚀 Key Features
 
 ### 👤 Authentication
@@ -68,25 +103,6 @@ Institute Management System/
 │ └── README.md # Optional frontend README
 │
 └── README.md # This main README file
-```cko
----
-
-## 📷 Screenshots
-
-> Add your screenshots in the `screenshots/` folder and link them here.
-
-```
-📸 Home Page
-📸 Student Details Page
-📸 Add Course Form
-📸 Fee History Table
-```
-
-Example:
-
-![Home Page](./screenshots/home.png)  
-![Student Details](./screenshots/student-details.png)
-
 ---
 
 ## 💻 How to Run Locally
