@@ -22,7 +22,7 @@ A complete educational management web application built using **React.js**, with
 
 ---
 
-## 📷 Preview
+## 📸 Preview
 
 ```
 ![Signup Page](./screenShots/User-signup.png)
